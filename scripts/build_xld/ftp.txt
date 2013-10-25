@@ -1,0 +1,14 @@
+open ipaddress
+username
+password
+
+prompt
+bin
+
+lcd hcp
+
+mput *.exe
+mput *.hcp
+mput *.pak
+put version.tag
+bye
